@@ -60,7 +60,7 @@ nav .burger {
     }
 
     nav .navLinks {
-        position: absolute;
+        position: fixed;
         right: 0;
         height: 92vh;
         top: 8vh;
